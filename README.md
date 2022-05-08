@@ -1,5 +1,5 @@
 ## hugo-3
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/a114426/Hugo-3.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/a114426/Hugo-baba.git)
 
 ### heroku上部署hugo-3
 - [x] 支持VMess和VLESS两种协议
